@@ -8,3 +8,5 @@
 ![image](https://github.com/AWKrol/selenoid_ui/assets/92876406/0915f79d-2637-470e-8d05-9752c95a9bf0)
 
 ![image](https://github.com/AWKrol/selenoid_ui/assets/92876406/9bffcc2f-2c12-4cd5-89b9-42fb0181eafb)
+
+![image](https://github.com/AWKrol/selenoid_ui/assets/92876406/4ad994d9-8859-4e45-885d-db6848d86b6f)
